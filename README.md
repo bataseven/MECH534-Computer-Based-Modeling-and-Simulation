@@ -1,1 +1,1 @@
-# MECH534-Computer-Based-Modeling-and-Simulation-
+# MECH534-Computer-Based-Modeling-and-Simulation
