@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Class01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW7\main.cpp(37,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW7\main.cpp(40,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW7\main.cpp(75,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW7\main.cpp(76,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW7\main.cpp(77,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW7\main.cpp(92,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW7\main.cpp(146,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW7\main.cpp(154,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW7\main.cpp(162,70): warning C4305: 'argument': truncation from 'double' to 'float'
+  Class01.vcxproj -> C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW7\x64\Debug\HW7.exe

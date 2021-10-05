@@ -1,0 +1,4 @@
+﻿  HW4.cpp
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW4\nr.h(153,20): warning C4273: 'erff': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(552,47): message : see previous definition of 'erff'
+  HW4.vcxproj -> C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW4\Debug\HW4.exe

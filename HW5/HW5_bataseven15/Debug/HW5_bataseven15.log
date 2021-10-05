@@ -1,0 +1,13 @@
+﻿  HW5_bataseven15.cpp
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\nr.h(153,20): warning C4273: 'erff': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(552,47): message : see previous definition of 'erff'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\HW5_bataseven15.cpp(36,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\HW5_bataseven15.cpp(37,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\HW5_bataseven15.cpp(49,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\HW5_bataseven15.cpp(104,36): warning C4244: 'argument': conversion from 'float' to 'long', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\HW5_bataseven15.cpp(108,28): warning C4244: 'argument': conversion from 'float' to 'long', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\HW5_bataseven15.cpp(108,16): warning C4244: 'argument': conversion from 'float' to 'long', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\HW5_bataseven15.cpp(109,23): warning C4244: 'argument': conversion from 'float' to 'long', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\HW5_bataseven15.cpp(111,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\HW5_bataseven15.cpp(111,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  HW5_bataseven15.vcxproj -> C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\HW5\HW5_bataseven15\Debug\HW5_bataseven15.exe
