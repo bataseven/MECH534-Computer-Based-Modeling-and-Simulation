@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(38,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(40,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(41,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(89,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(136,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(139,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(142,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(145,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(237,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(238,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(252,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(259,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(286,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(287,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(288,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(301,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\main.cpp(329,73): warning C4305: 'argument': truncation from 'double' to 'float'
+  Class01.vcxproj -> C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project1 - Final(Part 2)\x64\Debug\Class01.exe

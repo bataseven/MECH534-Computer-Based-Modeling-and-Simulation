@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Class01.vcxproj, Project2_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(43,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(46,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(47,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(48,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(51,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(52,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(131,77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(136,46): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(193,80): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(230,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(231,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(232,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(233,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(283,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(283,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(283,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(312,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(334,50): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(335,50): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(336,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(346,52): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\main.cpp(347,52): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Class01.vcxproj -> C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\x64\Debug\Project2_2.exe

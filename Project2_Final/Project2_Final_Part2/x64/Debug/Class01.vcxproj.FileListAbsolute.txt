@@ -1,0 +1,10 @@
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\mech534Class01\x64\Debug\Class01.exe
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\mech534Class01\x64\Debug\Class01.pdb
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\Sample_01\x64\Debug\Class01.exe
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\Sample_01\x64\Debug\Class01.pdb
+D:\POUYA_DOCUMENTS\ACADEMICS\2021 Spring\MECH 534\Student_Utilities_Pack\Sample_01\x64\Debug\Class01.exe
+D:\POUYA_DOCUMENTS\ACADEMICS\2021 Spring\MECH 534\Student_Utilities_Pack\Sample_01\x64\Debug\Class01.pdb
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Student_Utilities_Pack\Sample_01\x64\Debug\Class01.exe
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\HW\Sample_01\x64\Debug\Class01.exe
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2-Part1\x64\Debug\Project2_1.exe
+C:\Users\berke\Desktop\Okul\Graduate\Mech534\Projects\Project2_Final_Part2\x64\Debug\Project2_2.exe
